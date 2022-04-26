@@ -1,4 +1,4 @@
-# PROJECT CREATING TABLES FOR A SMALL COMPANY USINGING MYSQL
+# PROJECT CREATING TABLES FOR A SMALL COMPANY USING MYSQL
 
  I fun during this project as it helped me strengten my skill in sql and i look foward to being involved in so many project,
  
