@@ -1,4 +1,4 @@
-#CREATING EMPLOYEE TABLES FOR A SMALL COMPANY WITH THE USE OF SQL
+# *CREATING EMPLOYEE TABLES FOR A SMALL COMPANY WITH THE USE OF SQL*
 
  Had fun doing this project as it helped me strengten my skill in sql and i look foward to being involved in so many project while actively solving problems creativly,
  
